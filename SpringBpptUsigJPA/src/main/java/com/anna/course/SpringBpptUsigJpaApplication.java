@@ -8,6 +8,6 @@ public class SpringBpptUsigJpaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBpptUsigJpaApplication.class, args);
-	System.out.println("jap app running");
+		System.out.println("jap app running");
 	}
 }
